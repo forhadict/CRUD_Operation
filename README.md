@@ -10,4 +10,4 @@
 ## Project View
 
 ### Home Page
-   ![alt text](https://github.com/forhadict/Student-Performance-Management-System/blob/main/git_assets/homepage.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/CRUD_Operation/blob/main/crud.PNG?raw=true)
